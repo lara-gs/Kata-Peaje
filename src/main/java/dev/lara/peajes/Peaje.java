@@ -32,7 +32,6 @@ public class Peaje {
                     "Matricula: " + vehiculo.getMatricula() + " | Peaje: $" + String.format("%.2f", vehiculo.calcularPeaje()));
         }
     }
-    
 
     public double getTotalRecaudado() {
         return totalRecaudado;
