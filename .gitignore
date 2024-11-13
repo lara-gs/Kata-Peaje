@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Archivos de Maven Wrapper
+mvnw
+mvnw.cmd
+.mvn/
+
+# Archivos temporales y de compilación
+target/
+*.log
+*.bak
+*.swp
